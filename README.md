@@ -1,7 +1,7 @@
 # EuroSAT-satellite-image-classification
 EuroSAT: Land Use and Land Cover Classification with Sentinel-2
 
-![EuroSAT overview image](https://github.com/Sesatt/EuroSAT-satellite-image-classification/blob/master/eurosat_overview_small.jpg?raw=true)
+![EuroSAT overview image](https://github.com/Sesatt/EuroSAT-satellite-image-classification/blob/main/eurosat_overview_small.jpg?raw=true)
 
 ### Short Description
 
@@ -10,7 +10,7 @@ I use a Convolutional Neural Network (CNNs) and achieve an accuracy of around 95
 
 ### Project Details
 
-![Network Architecture](https://github.com/Sesatt/EuroSAT-satellite-image-classification/blob/master/image.jpg?raw=true)
+![Network Architecture](https://github.com/Sesatt/EuroSAT-satellite-image-classification/blob/main/image.jpg?raw=true)
 
 Initial preparation: 
 - Data Cleaning and Preprocessing, incl. standardization
