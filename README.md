@@ -10,7 +10,7 @@ I use a Convolutional Neural Network (CNNs) and achieve an accuracy of around 95
 
 ### Project Details
 
-![Network Architecture](https://github.com/Sesatt/EuroSAT-satellite-image-classification/blob/main/image.jpg?raw=true)
+![Network Architecture](https://github.com/Sesatt/EuroSAT-satellite-image-classification/blob/main/Network_Architecture.png?raw=true)
 
 Initial preparation: 
 - Data Cleaning and Preprocessing, incl. standardization
