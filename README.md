@@ -1,12 +1,17 @@
 # EuroSAT-satellite-image-classification
 EuroSAT: Land Use and Land Cover Classification with Sentinel-2
 
+![EuroSAT overview image](https://github.com/Sesatt/EuroSAT-satellite-image-classification/blob/master/eurosat_overview_small.jpg?raw=true)
+
 ### Short Description
 
 Goal: land use and land cover classification using Sentinel-2 multi spectral satellite images. The Sentinel-2 satellite images are openly and freely accessible provided in the Earth observation program Copernicus. I use the dataset of Patrick Helber, Benjamin Bischke, Andreas Dengel and Damian Borth (reference papers below) which is based on Sentinel-2 satellite images covering 13 spectral bands (Level-1C) and consisting out of 10 classes with in total 27,000 labeled and geo-referenced images. 
 I use a Convolutional Neural Network (CNNs) and achieve an accuracy of around 95\% for Level-1C data (same features as training data) and around 60% for level-2A data (less features than training data). 
 
 ### Project Details
+
+![Network Architecture](https://github.com/Sesatt/EuroSAT-satellite-image-classification/blob/master/image.jpg?raw=true)
+
 Initial preparation: 
 - Data Cleaning and Preprocessing, incl. standardization
 - Data Augmentation, incl. random rotation, flipping and patch removals
